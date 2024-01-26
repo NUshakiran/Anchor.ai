@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Anchor.ai/static/css/main.59ab5315.css",
+    "main.js": "/Anchor.ai/static/js/main.ad5ce534.js",
+    "static/js/787.5cca6ff6.chunk.js": "/Anchor.ai/static/js/787.5cca6ff6.chunk.js",
+    "index.html": "/Anchor.ai/index.html",
+    "main.59ab5315.css.map": "/Anchor.ai/static/css/main.59ab5315.css.map",
+    "main.ad5ce534.js.map": "/Anchor.ai/static/js/main.ad5ce534.js.map",
+    "787.5cca6ff6.chunk.js.map": "/Anchor.ai/static/js/787.5cca6ff6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59ab5315.css",
+    "static/js/main.ad5ce534.js"
+  ]
+}
